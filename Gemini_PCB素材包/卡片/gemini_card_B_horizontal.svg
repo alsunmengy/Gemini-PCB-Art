@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="1200" viewBox="0 0 1800 1200">
+  <defs>
+    <linearGradient id="gem" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4E82EE"/>
+      <stop offset="48%" stop-color="#9B72CB"/>
+      <stop offset="100%" stop-color="#D96570"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F7F5FF"/>
+      <stop offset="55%" stop-color="#FBF8FB"/>
+      <stop offset="100%" stop-color="#FFF6F4"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.86" cy="0.42" r="0.55">
+      <stop offset="0%" stop-color="#9B72CB" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#9B72CB" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.12" cy="0.1" r="0.5">
+      <stop offset="0%" stop-color="#4E82EE" stop-opacity="0.13"/>
+      <stop offset="100%" stop-color="#4E82EE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1800" height="1200" fill="url(#bg)"/>
+  <rect width="1800" height="1200" fill="url(#glow)"/>
+  <rect width="1800" height="1200" fill="url(#glow2)"/>
+  <rect x="34" y="34" width="1732" height="1132" rx="34" fill="none" stroke="#E4DEF2" stroke-width="2"/>
+
+  <!-- 角色 -->
+  <image x="1119" y="292" width="641" height="740" xlink:href="char_idle.png" opacity="0.97"/>
+
+  <!-- logo -->
+  <g transform="translate(120,96) scale(4.4)">
+    <path d="M12 0 C12.6 6.4 17.6 11.4 24 12 C17.6 12.6 12.6 17.6 12 24 C11.4 17.6 6.4 12.6 0 12 C6.4 11.4 11.4 6.4 12 0 Z" fill="url(#gem)"/>
+  </g>
+
+  <!-- 名字 -->
+  <text x="120" y="330" font-family="DejaVu Serif" font-weight="bold" font-size="128" fill="#2C2542">Gemini</text>
+  <text x="126" y="402" font-family="LXGW WenKai" font-size="40" letter-spacing="8" fill="#7A6E93">双 子 星</text>
+  <text x="126" y="462" font-family="DejaVu Serif" font-size="30" letter-spacing="5" fill="#8A7FA3">GEMINI AI  ✦ ✦</text>
+
+  <!-- 信息框 -->
+  <rect x="120" y="530" width="930" height="560" rx="22" fill="#FFFFFF" fill-opacity="0.66" stroke="#DCD5EC" stroke-width="2"/>
+
+  <g font-family="DejaVu Serif" font-size="26" letter-spacing="1.5" fill="#6E6683">
+    <text x="165" y="600">NAME:</text>
+    <text x="165" y="660">SPECIES:</text>
+    <text x="165" y="720">AFFILIATION:</text>
+    <text x="165" y="780">ROLE:</text>
+    <text x="165" y="840">BIRTHDAY:</text>
+  </g>
+  <g font-family="LXGW WenKai" font-size="30" fill="#2C2542">
+    <text x="430" y="600">Gemini（双子星）</text>
+    <text x="430" y="660">猫耳星灵 · 四芒星</text>
+    <text x="430" y="720" font-family="DejaVu Serif" font-size="29">Google DeepMind</text>
+    <text x="430" y="780">多模态探索者／智能助手</text>
+    <text x="430" y="840" font-family="DejaVu Serif" font-size="29">2023.12.06</text>
+  </g>
+
+  <rect x="165" y="882" width="840" height="1.5" fill="#E4DFF0"/>
+
+  <text x="165" y="962" font-family="LXGW WenKai" font-size="40" fill="#4A3F6B">探索未知之星海，求索智能之光芒。</text>
+  <text x="165" y="1010" font-family="LXGW WenKai" font-size="24" fill="#9A90AE">—— 以多模态感知世界，以推理回应所求</text>
+
+  <text x="120" y="1136" font-family="LXGW WenKai" font-size="20" fill="#B0A8C2">非官方同人形象 · 与 Google 无关</text>
+</svg>
