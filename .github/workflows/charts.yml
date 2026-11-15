@@ -19,7 +19,7 @@ jobs:
 
       - name: Snapshot download counts + regenerate combined chart
         env:
-          GH_TOKEN: ${ secrets.GITHUB_TOKEN }
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python3 .github/scripts/gen_combo_chart.py "$GITHUB_REPOSITORY" "#7B5CD6" .github/charts/chart.svg "" "Gemini 猫耳少女" "#5A3FA8" --snapshot
 
