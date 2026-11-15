@@ -116,6 +116,8 @@ def gen(repo, accent, gold, stars, created, releases, bg_path=None, charlabel=""
     for i in range(5):
         t = t0 + datetime.timedelta(seconds=span * i / 4)
         x = X(t)
+        if 0 < i < 4 and days < 0.5:
+            continue
         xticks.append('<line x1="%.1f" y1="%.1f" x2="%.1f" y2="%.1f" stroke="#8f86ad" stroke-opacity="0.28" stroke-width="1"/>' % (x, M_T, x, M_T + PLOT_H))
         if i == 0:
             xticks.append('')
