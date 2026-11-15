@@ -4,9 +4,11 @@
 <br>
 <a href="https://github.com/alsunmengy"><img src="https://raw.githubusercontent.com/alsunmengy/Gemini-PCB-Art/main/.github/badges/follow-me.svg" alt="关注我" height="60"></a>
 
-## Star History
+## Star & Download History
+[![Star & download history](https://raw.githubusercontent.com/alsunmengy/Gemini-PCB-Art/main/.github/charts/chart.svg)](https://github.com/alsunmengy/Gemini-PCB-Art/stargazers)
 
-[![Star history](https://raw.githubusercontent.com/alsunmengy/Gemini-PCB-Art/main/.github/star-history/chart.svg)](https://github.com/alsunmengy/Gemini-PCB-Art/stargazers)
+> 上图上半是 star 累积，下半是 Release 下载累积，共用一条时间轴；竖虚线是发版时间。每天 UTC 3:10 自动重新采集并提交。
+
 
 > ✦ Gemini 娘 艺术纪念 PCB，嘉立创 EDA 开源硬件项目，双面彩色丝印 + 沉金，无电气功能，纯收藏向工艺板。
 
