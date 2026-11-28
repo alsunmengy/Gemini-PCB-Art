@@ -4,9 +4,11 @@
 <br>
 <a href="https://github.com/alsunmengy"><img src="https://raw.githubusercontent.com/alsunmengy/Gemini-PCB-Art/main/.github/badges/follow-me.svg" alt="关注我" height="60"></a>
 
-## Star History
+## Star & Download History
+[![Star & download history](https://raw.githubusercontent.com/alsunmengy/Gemini-PCB-Art/main/.github/charts/chart.svg)](https://github.com/alsunmengy/Gemini-PCB-Art/stargazers)
 
-[![Star history](https://raw.githubusercontent.com/alsunmengy/Gemini-PCB-Art/main/.github/star-history/chart.svg)](https://github.com/alsunmengy/Gemini-PCB-Art/stargazers)
+> 上图上半是 star 累积，下半是 Release 下载累积，共用一条时间轴；竖虚线是发版时间。每天 UTC 3:10 自动重新采集并提交。
+
 
 > ✦ Gemini 娘 艺术纪念 PCB，嘉立创 EDA 开源硬件项目，双面彩色丝印 + 沉金，无电气功能，纯收藏向工艺板。
 
@@ -22,6 +24,12 @@
 - **适用范围与要求**：上述成本价原则对**全体持有人**同等适用。任何依据本工程打样、或因受让而持有本项目实体板者，其后续转让均不得高于实际成本价（板费 + 运费），不得以盈利为目的加价转售、批量分销，亦不得将本板用于引流、搭售等商业用途。
 - **图片出处**：插画均来自公开二创，README 已标注作者与来源；商用前请自行取得原作者授权。
 - **找到我**：闲鱼 `alsun梦游` ｜ GitHub [`alsunmengy`](https://github.com/alsunmengy) ｜ Star 可选，不点也能用。
+
+> 山中何所有，岭上多白云。
+> 只可自怡悦，不堪持赠君。
+> 　　　　　　　　　　—— 陶弘景《诏问山中何所有》
+>
+> **这块板子也一样：只可自怡悦。** 开源是让人自己做一块，不是拿来卖货的。
 
 ## 📖 项目简介
 
